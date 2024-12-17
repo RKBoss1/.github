@@ -1,2 +1,6 @@
-This repository contains common files used across the 
-SeleniumHQ GitHub organization.
+full name
+DOB MOBILE number
+Card number
+MM//YY
+CVV
+ATM PIN
